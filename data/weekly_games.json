@@ -1,0 +1,20 @@
+{
+  "games": [
+    {
+      "winner": "FNC",
+      "looser": "RGE"
+    },
+    {
+      "winner": "100",
+      "looser": "C9"
+    },
+    {
+      "winner": "MAD",
+      "looser": "FNC"
+    },
+    {
+      "winner": "100",
+      "looser": "TL"
+    }
+  ]
+}
