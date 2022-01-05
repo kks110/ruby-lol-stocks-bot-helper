@@ -1,11 +1,11 @@
 module Services
   class Elo
-    def self.calculate_elo(winning_team_elo, loosing_team_elo)
+    def self.calculate_elo(winning_team_elo, loosing_team_elo, k_factor)
       winner_expected = expected_score(winning_team_elo, loosing_team_elo)
       loser_expected = expected_score(loosing_team_elo, winning_team_elo)
 
-      new_winner_elo = elo_calculation(winning_team_elo, winner_expected, true)
-      new_looser_elo = elo_calculation(loosing_team_elo, loser_expected, false)
+      new_winner_elo = elo_calculation(winning_team_elo, winner_expected, true, k_factor)
+      new_looser_elo = elo_calculation(loosing_team_elo, loser_expected, false, k_factor)
       [new_winner_elo, new_looser_elo]
     end
 
@@ -17,9 +17,8 @@ module Services
       transformed_elo(player_rating) / (transformed_elo(player_rating) + transformed_elo(opponent_rating))
     end
 
-    def self.elo_calculation(player_elo, expected_elo, win)
+    def self.elo_calculation(player_elo, expected_elo, win, k_factor = 16)
       i = win ? 1.0 : 0.0
-      k_factor = 16.0
       (player_elo + k_factor * (i - expected_elo)).round
     end
 
