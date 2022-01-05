@@ -15,6 +15,8 @@ class Program
           validate_weekly_games
         when 'Log weekly games'
           log_weekly_games
+        when 'Initial Elo calculation'
+          Services::InitialEloCalculation.run
         when 'Clear screen'
           clear_screen = true
         when 'Quit'

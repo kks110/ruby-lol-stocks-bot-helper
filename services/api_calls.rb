@@ -1,15 +1,16 @@
 module Services
   class ApiCalls
+    SERVER_ADDRESS = ENV['SERVER_IP']
     def self.load_teams
-      puts "#{ENV['SERVER_IP']}/teams"
-      response = HTTParty.get("#{ENV['SERVER_IP']}/teams")
+      puts "#{SERVER_ADDRESS}/teams"
+      response = HTTParty.get("#{SERVER_ADDRESS}/teams")
       JSON.parse(response.body).each_with_object([]) do |team, team_list|
         team_list << team['name']
       end
     end
 
     def self.record_history
-      HTTParty.post("#{ENV['SERVER_IP']}/take_snapshot")
+      HTTParty.post("#{SERVER_ADDRESS}/take_snapshot")
     end
 
     def self.log_game(game)
@@ -19,7 +20,7 @@ module Services
       }
 
       HTTParty.post(
-        "#{ENV['SERVER_IP']}/register_game",
+        "#{SERVER_ADDRESS}/register_game",
         options
       )
     end

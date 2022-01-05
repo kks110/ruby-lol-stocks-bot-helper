@@ -9,20 +9,20 @@ module Services
       [new_winner_elo, new_looser_elo]
     end
 
-    private
-
-    def transformed_elo(elo)
+    def self.transformed_elo(elo)
       10**(elo / 400.0)
     end
 
-    def expected_score(player_rating, opponent_rating)
+    def self.expected_score(player_rating, opponent_rating)
       transformed_elo(player_rating) / (transformed_elo(player_rating) + transformed_elo(opponent_rating))
     end
 
-    def elo_calculation(player_elo, expected_elo, win)
+    def self.elo_calculation(player_elo, expected_elo, win)
       i = win ? 1.0 : 0.0
       k_factor = 16.0
       (player_elo + k_factor * (i - expected_elo)).round
     end
+
+    private_class_method :transformed_elo, :expected_score, :elo_calculation
   end
 end

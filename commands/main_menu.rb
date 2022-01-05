@@ -8,6 +8,7 @@ module Commands
         options: [
           'Validate weekly games',
           'Log weekly games',
+          'Initial Elo calculation',
           'Clear screen',
           'Quit'
         ]
