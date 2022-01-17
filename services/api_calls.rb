@@ -15,7 +15,7 @@ module Services
 
     def self.log_game(game)
       options = {
-        :body => game,
+        :body => game.to_json,
         :headers => { 'Content-Type' => 'application/json' },
       }
 
@@ -26,4 +26,3 @@ module Services
     end
   end
 end
-
