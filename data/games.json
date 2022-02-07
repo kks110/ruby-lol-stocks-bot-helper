@@ -3327,6 +3327,138 @@
 		{
 			"winner": "C9",
 			"looser": "CLG"
+		},
+		{
+			"winner": "BDS",
+			"looser": "AST"
+		},
+		{
+			"winner": "MAD",
+			"looser": "XL"
+		},
+		{
+			"winner": "VIT",
+			"looser": "SK"
+		},
+		{
+			"winner": "RGE",
+			"looser": "FNC"
+		},
+		{
+			"winner": "G2",
+			"looser": "MSF"
+		},
+		{
+			"winner": "TL",
+			"looser": "DIG"
+		},
+		{
+			"winner": "BDS",
+			"looser": "SK"
+		},
+		{
+			"winner": "XL",
+			"looser": "AST"
+		},
+		{
+			"winner": "MSF",
+			"looser": "MAD"
+		},
+		{
+			"winner": "RGE",
+			"looser": "VIT"
+		},
+		{
+			"winner": "G2",
+			"looser": "FNC"
+		},
+		{
+			"winner": "EG",
+			"looser": "C9"
+		},
+		{
+			"winner": "TL",
+			"looser": "EG"
+		},
+		{
+			"winner": "SK",
+			"looser": "AST"
+		},
+		{
+			"winner": "RGE",
+			"looser": "XL"
+		},
+		{
+			"winner": "VIT",
+			"looser": "MSF"
+		},
+		{
+			"winner": "G2",
+			"looser": "BDS"
+		},
+		{
+			"winner": "FNC",
+			"looser": "MAD"
+		},
+		{
+			"winner": "MSF",
+			"looser": "SK"
+		},
+		{
+			"winner": "MAD",
+			"looser": "BDS"
+		},
+		{
+			"winner": "VIT",
+			"looser": "AST"
+		},
+		{
+			"winner": "XL",
+			"looser": "FNC"
+		},
+		{
+			"winner": "RGE",
+			"looser": "G2"
+		},
+		{
+			"winner": "EG",
+			"looser": "TSM"
+		},
+		{
+			"winner": "FLY",
+			"looser": "CLG"
+		},
+		{
+			"winner": "100",
+			"looser": "TL"
+		},
+		{
+			"winner": "C9",
+			"looser": "GG"
+		},
+		{
+			"winner": "DIG",
+			"looser": "IMT"
+		},
+		{
+			"winner": "100",
+			"looser": "CLG"
+		},
+		{
+			"winner": "DIG",
+			"looser": "TSM"
+		},
+		{
+			"winner": "C9",
+			"looser": "EG"
+		},
+		{
+			"winner": "FLY",
+			"looser": "GG"
+		},
+		{
+			"winner": "TL",
+			"looser": "IMT"
 		}
 	]
 }
