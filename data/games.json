@@ -3539,6 +3539,86 @@
 		{
 			"winner": "DIG",
 			"looser": "CLG"
+		},
+		{
+			"winner": "AST",
+			"looser": "FNC"
+		},
+		{
+			"winner": "MSF",
+			"looser": "XL"
+		},
+		{
+			"winner": "VIT",
+			"looser": "BDS"
+		},
+		{
+			"winner": "SK",
+			"looser": "G2"
+		},
+		{
+			"winner": "RGE",
+			"looser": "MAD"
+		},
+		{
+			"winner": "XL",
+			"looser": "AST"
+		},
+		{
+			"winner": "SK",
+			"looser": "BDS"
+		},
+		{
+			"winner": "MSF",
+			"looser": "MAD"
+		},
+		{
+			"winner": "RGE",
+			"looser": "VIT"
+		},
+		{
+			"winner": "FNC",
+			"looser": "G2"
+		},
+		{
+			"winner": "100",
+			"looser": "GG"
+		},
+		{
+			"winner": "TSM",
+			"looser": "IMT"
+		},
+		{
+			"winner": "TL",
+			"looser": "EG"
+		},
+		{
+			"winner": "FLY",
+			"looser": "DIG"
+		},
+		{
+			"winner": "CLG",
+			"looser": "C9"
+		},
+		{
+			"winner": "IMT",
+			"looser": "EG"
+		},
+		{
+			"winner": "FLY",
+			"looser": "100"
+		},
+		{
+			"winner": "C9",
+			"looser": "TSM"
+		},
+		{
+			"winner": "GG",
+			"looser": "DIG"
+		},
+		{
+			"winner": "TL",
+			"looser": "CLG"
 		}
 	]
 }
