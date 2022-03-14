@@ -3819,6 +3819,46 @@
 		{
 			"winner": "TSM",
 			"looser": "GG"
+		},
+		{
+			"winner": "100",
+			"looser": "GG"
+		},
+		{
+			"winner": "CLG",
+			"looser": "FLY"
+		},
+		{
+			"winner": "TL",
+			"looser": "EG"
+		},
+		{
+			"winner": "C9",
+			"looser": "IMT"
+		},
+		{
+			"winner": "DIG",
+			"looser": "TSM"
+		},
+		{
+			"winner": "C9",
+			"looser": "TL"
+		},
+		{
+			"winner": "100",
+			"looser": "FLY"
+		},
+		{
+			"winner": "EG",
+			"looser": "TSM"
+		},
+		{
+			"winner": "DIG",
+			"looser": "IMT"
+		},
+		{
+			"winner": "CLG",
+			"looser": "GG"
 		}
 	]
 }
