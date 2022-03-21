@@ -2,43 +2,43 @@
   "games": [
     {
       "winner": "100",
-      "looser": "GG"
-    },
-    {
-      "winner": "CLG",
-      "looser": "FLY"
+      "looser": "IMT"
     },
     {
       "winner": "TL",
-      "looser": "EG"
+      "looser": "CLG"
     },
     {
-      "winner": "C9",
-      "looser": "IMT"
-    },
-    {
-      "winner": "DIG",
-      "looser": "TSM"
-    },
-    {
-      "winner": "C9",
-      "looser": "TL"
-    },
-    {
-      "winner": "100",
-      "looser": "FLY"
+      "winner": "TSM",
+      "looser": "C9"
     },
     {
       "winner": "EG",
-      "looser": "TSM"
+      "looser": "DIG"
     },
     {
-      "winner": "DIG",
+      "winner": "GG",
+      "looser": "FLY"
+    },
+    {
+      "winner": "100",
+      "looser": "EG"
+    },
+    {
+      "winner": "GG",
+      "looser": "DIG"
+    },
+    {
+      "winner": "FLY",
+      "looser": "TL"
+    },
+    {
+      "winner": "C9",
+      "looser": "CLG"
+    },
+    {
+      "winner": "TSM",
       "looser": "IMT"
-    },
-    {
-      "winner": "CLG",
-      "looser": "GG"
     }
   ]
 }
