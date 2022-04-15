@@ -3979,6 +3979,42 @@
 		{
 			"winner": "EG",
 			"looser": "FLY"
+		},
+		{
+			"winner": "G2",
+			"looser": "VIT"
+		},
+		{
+			"winner": "RGE",
+			"looser": "FNC"
+		},
+		{
+			"winner": "100",
+			"looser": "C9"
+		},
+		{
+			"winner": "G2",
+			"looser": "MSF"
+		},
+		{
+			"winner": "TL",
+			"looser": "EG"
+		},
+		{
+			"winner": "G2",
+			"looser": "FNC"
+		},
+		{
+			"winner": "C9",
+			"looser": "GG"
+		},
+		{
+			"winner": "G2",
+			"looser": "RGE"
+		},
+		{
+			"winner": "EG",
+			"looser": "FLY"
 		}
 	]
 }

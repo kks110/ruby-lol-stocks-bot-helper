@@ -1,80 +1,16 @@
 {
   "games": [
     {
-      "winner": "RGE",
-      "looser": "MSF"
-    },
-    {
-      "winner": "TL",
-      "looser": "GG"
-    },
-    {
-      "winner": "EG",
-      "looser": "FLY"
+      "winner": "G2",
+      "looser": "FNC"
     },
     {
       "winner": "C9",
-      "looser": "DIG"
-    },
-    {
-      "winner": "CLG",
-      "looser": "IMT"
-    },
-    {
-      "winner": "100",
-      "looser": "TSM"
-    },
-    {
-      "winner": "FNC",
-      "looser": "G2"
-    },
-    {
-      "winner": "TL",
-      "looser": "DIG"
-    },
-    {
-      "winner": "GG",
-      "looser": "EG"
-    },
-    {
-      "winner": "100",
-      "looser": "C9"
-    },
-    {
-      "winner": "TSM",
-      "looser": "CLG"
-    },
-    {
-      "winner": "IMT",
-      "looser": "FLY"
-    },
-    {
-      "winner": "VIT",
-      "looser": "XL"
-    },
-    {
-      "winner": "DIG",
-      "looser": "100"
-    },
-    {
-      "winner": "EG",
-      "looser": "CLG"
-    },
-    {
-      "winner": "FLY",
-      "looser": "C9"
-    },
-    {
-      "winner": "GG",
-      "looser": "IMT"
-    },
-    {
-      "winner": "TL",
-      "looser": "TSM"
-    },
-    {
-      "winner": "FLY",
       "looser": "GG"
+    },
+    {
+      "winner": "G2",
+      "looser": "RGE"
     },
     {
       "winner": "EG",
