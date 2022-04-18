@@ -1,20 +1,12 @@
 {
   "games": [
     {
-      "winner": "G2",
-      "looser": "FNC"
-    },
-    {
-      "winner": "C9",
-      "looser": "GG"
-    },
-    {
-      "winner": "G2",
-      "looser": "RGE"
+      "winner": "100",
+      "looser": "TL"
     },
     {
       "winner": "EG",
-      "looser": "FLY"
+      "looser": "C9"
     }
   ]
 }
