@@ -1,12 +1,12 @@
 {
   "games": [
     {
-      "winner": "100",
+      "winner": "EG",
       "looser": "TL"
     },
     {
       "winner": "EG",
-      "looser": "C9"
+      "looser": "100"
     }
   ]
 }
