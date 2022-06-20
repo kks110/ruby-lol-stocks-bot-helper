@@ -1,12 +1,124 @@
 {
   "games": [
     {
+      "winner": "MAD",
+      "looser": "VIT"
+    },
+    {
+      "winner": "SK",
+      "looser": "BDS"
+    },
+    {
+      "winner": "XL",
+      "looser": "MSF"
+    },
+    {
+      "winner": "G2",
+      "looser": "AST"
+    },
+    {
+      "winner": "FNC",
+      "looser": "RGE"
+    },
+    {
       "winner": "EG",
-      "looser": "TL"
+      "looser": "C9"
+    },
+    {
+      "winner": "FLY",
+      "looser": "GG"
+    },
+    {
+      "winner": "100",
+      "looser": "TSM"
+    },
+    {
+      "winner": "TL",
+      "looser": "IMT"
+    },
+    {
+      "winner": "CLG",
+      "looser": "DIG"
+    },
+    {
+      "winner": "AST",
+      "looser": "BDS"
+    },
+    {
+      "winner": "MAD",
+      "looser": "SK"
+    },
+    {
+      "winner": "VIT",
+      "looser": "MSF"
+    },
+    {
+      "winner": "XL",
+      "looser": "FNC"
+    },
+    {
+      "winner": "G2",
+      "looser": "RGE"
+    },
+    {
+      "winner": "GG",
+      "looser": "C9"
+    },
+    {
+      "winner": "TL",
+      "looser": "DIG"
     },
     {
       "winner": "EG",
       "looser": "100"
+    },
+    {
+      "winner": "CLG",
+      "looser": "TSM"
+    },
+    {
+      "winner": "IMT",
+      "looser": "FLY"
+    },
+    {
+      "winner": "AST",
+      "looser": "MSF"
+    },
+    {
+      "winner": "VIT",
+      "looser": "BDS"
+    },
+    {
+      "winner": "FNC",
+      "looser": "SK"
+    },
+    {
+      "winner": "G2",
+      "looser": "XL"
+    },
+    {
+      "winner": "RGE",
+      "looser": "MAD"
+    },
+    {
+      "winner": "100",
+      "looser": "DIG"
+    },
+    {
+      "winner": "EG",
+      "looser": "FLY"
+    },
+    {
+      "winner": "TL",
+      "looser": "C9"
+    },
+    {
+      "winner": "CLG",
+      "looser": "GG"
+    },
+    {
+      "winner": "TSM",
+      "looser": "IMT"
     }
   ]
 }
