@@ -1,83 +1,83 @@
 {
   "games": [
     {
-      "winner": "AST",
-      "looser": "SK"
-    },
-    {
-      "winner": "XL",
-      "looser": "VIT"
-    },
-    {
-      "winner": "RGE",
-      "looser": "MSF"
-    },
-    {
-      "winner": "BDS",
-      "looser": "G2"
-    },
-    {
-      "winner": "MAD",
-      "looser": "FNC"
-    },
-    {
       "winner": "MSF",
-      "looser": "SK"
-    },
-    {
-      "winner": "XL",
-      "looser": "MAD"
-    },
-    {
-      "winner": "RGE",
-      "looser": "AST"
-    },
-    {
-      "winner": "FNC",
       "looser": "BDS"
     },
     {
-      "winner": "G2",
-      "looser": "VIT"
+      "winner": "VIT",
+      "looser": "SK"
     },
     {
-      "winner": "C9",
+      "winner": "RGE",
+      "looser": "XL"
+    },
+    {
+      "winner": "FNC",
+      "looser": "AST"
+    },
+    {
+      "winner": "MAD",
+      "looser": "G2"
+    },
+    {
+      "winner": "XL",
+      "looser": "BDS"
+    },
+    {
+      "winner": "RGE",
+      "looser": "SK"
+    },
+    {
+      "winner": "VIT",
+      "looser": "AST"
+    },
+    {
+      "winner": "MSF",
+      "looser": "MAD"
+    },
+    {
+      "winner": "FNC",
+      "looser": "G2"
+    },
+    {
+      "winner": "EG",
+      "looser": "TSM"
+    },
+    {
+      "winner": "FLY",
       "looser": "DIG"
     },
     {
       "winner": "100",
-      "looser": "GG"
-    },
-    {
-      "winner": "TSM",
       "looser": "TL"
     },
     {
-      "winner": "EG",
+      "winner": "GG",
       "looser": "IMT"
     },
     {
-      "winner": "FLY",
+      "winner": "C9",
       "looser": "CLG"
     },
     {
-      "winner": "GG",
+      "winner": "DIG",
       "looser": "TSM"
     },
     {
+      "winner": "EG",
+      "looser": "GG"
+    },
+    {
+      "winner": "FLY",
+      "looser": "C9"
+    },
+    {
       "winner": "TL",
-      "looser": "FLY"
+      "looser": "CLG"
     },
     {
-      "winner": "C9",
-      "looser": "100"
-    },
-    {
-      "winner": "CLG",
-      "looser": "EG"
-    },
-    {
-      "winner": "DIG",
+      "winner": "100",
       "looser": "IMT"
     }
   ]
