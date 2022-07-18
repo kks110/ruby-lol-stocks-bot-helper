@@ -1,84 +1,84 @@
 {
   "games": [
     {
-      "winner": "MSF",
-      "looser": "BDS"
-    },
-    {
-      "winner": "VIT",
-      "looser": "SK"
-    },
-    {
-      "winner": "RGE",
+      "winner": "AST",
       "looser": "XL"
     },
     {
-      "winner": "FNC",
-      "looser": "AST"
-    },
-    {
       "winner": "MAD",
-      "looser": "G2"
-    },
-    {
-      "winner": "XL",
       "looser": "BDS"
     },
     {
-      "winner": "RGE",
-      "looser": "SK"
-    },
-    {
-      "winner": "VIT",
-      "looser": "AST"
-    },
-    {
       "winner": "MSF",
-      "looser": "MAD"
+      "looser": "FNC"
     },
     {
-      "winner": "FNC",
+      "winner": "SK",
       "looser": "G2"
     },
     {
-      "winner": "EG",
-      "looser": "TSM"
+      "winner": "RGE",
+      "looser": "VIT"
+    },
+    {
+      "winner": "SK",
+      "looser": "XL"
+    },
+    {
+      "winner": "MAD",
+      "looser": "AST"
+    },
+    {
+      "winner": "RGE",
+      "looser": "BDS"
+    },
+    {
+      "winner": "MSF",
+      "looser": "G2"
+    },
+    {
+      "winner": "VIT",
+      "looser": "FNC"
     },
     {
       "winner": "FLY",
+      "looser": "100"
+    },
+    {
+      "winner": "EG",
       "looser": "DIG"
     },
     {
-      "winner": "100",
-      "looser": "TL"
-    },
-    {
-      "winner": "GG",
-      "looser": "IMT"
-    },
-    {
       "winner": "C9",
-      "looser": "CLG"
-    },
-    {
-      "winner": "DIG",
       "looser": "TSM"
     },
     {
-      "winner": "EG",
-      "looser": "GG"
-    },
-    {
-      "winner": "FLY",
-      "looser": "C9"
+      "winner": "CLG",
+      "looser": "IMT"
     },
     {
       "winner": "TL",
-      "looser": "CLG"
+      "looser": "GG"
+    },
+    {
+      "winner": "TSM",
+      "looser": "FLY"
     },
     {
       "winner": "100",
-      "looser": "IMT"
+      "looser": "CLG"
+    },
+    {
+      "winner": "EG",
+      "looser": "TL"
+    },
+    {
+      "winner": "IMT",
+      "looser": "C9"
+    },
+    {
+      "winner": "GG",
+      "looser": "DIG"
     }
   ]
 }
