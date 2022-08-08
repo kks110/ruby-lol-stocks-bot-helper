@@ -1,83 +1,83 @@
 {
   "games": [
     {
-      "winner": "SK",
+      "winner": "MSF",
       "looser": "AST"
     },
     {
-      "winner": "MSF",
-      "looser": "RGE"
-    },
-    {
       "winner": "VIT",
-      "looser": "XL"
-    },
-    {
-      "winner": "G2",
       "looser": "BDS"
-    },
-    {
-      "winner": "MAD",
-      "looser": "FNC"
-    },
-    {
-      "winner": "MSF",
-      "looser": "SK"
-    },
-    {
-      "winner": "AST",
-      "looser": "RGE"
-    },
-    {
-      "winner": "MAD",
-      "looser": "XL"
     },
     {
       "winner": "FNC",
-      "looser": "BDS"
+      "looser": "SK"
     },
     {
-      "winner": "VIT",
-      "looser": "G2"
+      "winner": "RGE",
+      "looser": "MAD"
     },
     {
-      "winner": "C9",
-      "looser": "FLY"
+      "winner": "G2",
+      "looser": "XL"
+    },
+    {
+      "winner": "AST",
+      "looser": "VIT"
+    },
+    {
+      "winner": "BDS",
+      "looser": "XL"
+    },
+    {
+      "winner": "MSF",
+      "looser": "MAD"
+    },
+    {
+      "winner": "SK",
+      "looser": "RGE"
+    },
+    {
+      "winner": "G2",
+      "looser": "FNC"
     },
     {
       "winner": "100",
-      "looser": "DIG"
+      "looser": "GG"
     },
     {
-      "winner": "TL",
+      "winner": "EG",
       "looser": "TSM"
     },
     {
-      "winner": "CLG",
-      "looser": "GG"
-    },
-    {
-      "winner": "EG",
-      "looser": "IMT"
-    },
-    {
-      "winner": "TSM",
-      "looser": "GG"
-    },
-    {
-      "winner": "EG",
+      "winner": "TL",
       "looser": "FLY"
     },
     {
-      "winner": "C9",
-      "looser": "TL"
+      "winner": "CLG",
+      "looser": "C9"
     },
     {
-      "winner": "100",
+      "winner": "DIG",
       "looser": "IMT"
     },
     {
       "winner": "CLG",
+      "looser": "FLY"
+    },
+    {
+      "winner": "100",
+      "looser": "C9"
+    },
+    {
+      "winner": "TL",
+      "looser": "EG"
+    },
+    {
+      "winner": "IMT",
+      "looser": "GG"
+    },
+    {
+      "winner": "TSM",
       "looser": "DIG"
     }
   ]
