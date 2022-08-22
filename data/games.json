@@ -4763,6 +4763,14 @@
 		{
 			"winner": "C9",
 			"looser": "FLY"
+		},
+		{
+			"winner": "TL",
+			"looser": "FLY"
+		},
+		{
+			"winner": "C9",
+			"looser": "CLG"
 		}
 	]
 }
