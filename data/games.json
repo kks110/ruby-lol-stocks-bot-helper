@@ -4771,6 +4771,34 @@
 		{
 			"winner": "C9",
 			"looser": "CLG"
+		},
+		{
+			"winner": "TSM",
+			"looser": "FLY"
+		},
+		{
+			"winner": "RGE",
+			"looser": "MAD"
+		},
+		{
+			"winner": "CLG",
+			"looser": "GG"
+		},
+		{
+			"winner": "G2",
+			"looser": "MSF"
+		},
+		{
+			"winner": "100",
+			"looser": "TL"
+		},
+		{
+			"winner": "FNC",
+			"looser": "XL"
+		},
+		{
+			"winner": "C9",
+			"looser": "EG"
 		}
 	]
 }
