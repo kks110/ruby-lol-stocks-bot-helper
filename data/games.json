@@ -4827,6 +4827,22 @@
 		{
 			"winner": "EG",
 			"looser": "TL"
+		},
+		{
+			"winner": "RGE",
+			"looser": "FNC"
+		},
+		{
+			"winner": "100",
+			"looser": "EG"
+		},
+		{
+			"winner": "RGE",
+			"looser": "G2"
+		},
+		{
+			"winner": "C9",
+			"looser": "100"
 		}
 	]
 }

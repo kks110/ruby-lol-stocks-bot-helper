@@ -1,32 +1,20 @@
 {
   "games": [
     {
-      "winner": "TL",
-      "looser": "CLG"
+      "winner": "RGE",
+      "looser": "FNC"
     },
     {
-      "winner": "FNC",
-      "looser": "MSF"
+      "winner": "100",
+      "looser": "EG"
     },
     {
-      "winner": "EG",
-      "looser": "TSM"
-    },
-    {
-      "winner": "G2",
-      "looser": "RGE"
+      "winner": "RGE",
+      "looser": "G2"
     },
     {
       "winner": "C9",
       "looser": "100"
-    },
-    {
-      "winner": "FNC",
-      "looser": "MAD"
-    },
-    {
-      "winner": "EG",
-      "looser": "TL"
     }
   ]
 }
